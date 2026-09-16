@@ -1,2 +1,2 @@
-# AtliQ-Hardware-Consumer-Goods-Insights-Presentation
+# SQL AtliQ-Hardware
 This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project Challenge
